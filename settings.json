@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "mynetrix.swiftservers.org",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
