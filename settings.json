@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mynetrix.swiftservers.org",
-    "port": 25565,
+    "ip": "wdnaosdwadn.mcsh.io",
+    "port": 11987,
     "version": "1.21.1"
   },
   "position": {
